@@ -1,5 +1,5 @@
 #### ▶︎ 매일 학습한 내용 & 프로젝트 진행사항을 티스토리에 정리합니다
-<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=for-the-badge&logo=Go Tistory&logoColor=FF4500"/></a>
+<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Go Tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
 - Project History
 - Data Proprocessing   ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=flat&logo=Pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 - ML   ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
