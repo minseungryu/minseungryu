@@ -3,7 +3,7 @@
 - Project History
 - Data Proprocessing   ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=flat&logo=Pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 - ML   ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-- Data Visualization   ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white), Seaborn, Matplotlib, ![Seaborn](?style=flat&logo=&logoColor=white)
+- Data Visualization   ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white), Seaborn, Matplotlib
 - Basic Statistics
 - Dashboard    ![tableau](https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white) ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
