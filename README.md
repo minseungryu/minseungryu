@@ -9,7 +9,7 @@
 🧑🏻‍💻 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
 <br>
 <br>
-![minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseungryu&show_icons=true&theme=vue)
+![minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseungryu&show_icons=true&theme=default)
 
 <!--
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 여기서 꾸밈
