@@ -4,6 +4,8 @@
 <br>
 <br>
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eeeeee?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
+<a href="https://everyday-joyful.tistory.com/category/SQL/SQL%20test" target="_blank"><img src="https://img.shields.io/badge/mysql-eeeeee?style=for-the-badge&logo=tistory&logoColor=#4479A1"/></a>
+
 <br>
 <br>
 🧑🏻‍💻 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
