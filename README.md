@@ -2,15 +2,13 @@
 
 ###### 🌱 매일 학습한 내용 & 프로젝트 진행사항을 티스토리에 정리합니다
 <br>
-<br>
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eeeeee?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
 <br>
-<br>
+
 ###### 🧑🏻‍💻 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
 1. 🏪 강남구 지역 상권 기반 시간대별 편의점 매출 예측
 <br>
 
-<br>
 ![minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseungryu&show_icons=true&theme=graywhite)
 
 <!--
