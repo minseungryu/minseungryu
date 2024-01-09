@@ -1,13 +1,13 @@
 #### ▶︎ 매일 학습한 내용 & 프로젝트 진행사항을 블로그에 정리합니다
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Go Tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
-"""
+
 - Project History
 - Data Proprocessing   ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=flat&logo=Pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 - ML   ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 - Data Visualization   ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white), Seaborn, Matplotlib
 - Basic Statistics
 - Dashboard    ![tableau](https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white) ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-"""
+
 <br>
 
 #### ▶︎ 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
