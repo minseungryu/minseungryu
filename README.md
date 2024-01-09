@@ -1,5 +1,5 @@
 #### 🌱 매일 학습한 내용 & 프로젝트 진행사항을 티스토리에 정리합니다
-<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eeeeee?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
+<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=flat-square&logo=tistory&logoColor=FF4500"/></a>
 <br>
 ---
 #### 🧑🏻‍💻 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
