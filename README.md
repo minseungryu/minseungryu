@@ -4,7 +4,7 @@
 <br>
 <br>
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eeeeee?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
-<a href="https://everyday-joyful.tistory.com/category/SQL/SQL%20test" target="_blank"><img src="https://img.shields.io/badge/mysql-eeeeee?style=for-the-badge&logo=MySQL&logoColor=4479A1"/></a>
+<a href="https://everyday-joyful.tistory.com/category/SQL/SQL%20test" target="_blank"><img src="https://img.shields.io/badge/mysql-eeeeee?style=flat&logo=MySQL&logoColor=4479A1"/></a>
 
 <br>
 <br>
