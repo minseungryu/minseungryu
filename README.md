@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-e2e2e2?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseungryu&show_icons=true&theme=radical)
