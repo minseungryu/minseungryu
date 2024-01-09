@@ -7,7 +7,7 @@
 - Basic Statistics
 - Dashboard  ![tableau](https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white) ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
+<br>
 
 #### ▶︎ 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
 1. 🏪 강남구 지역 상권 기반 시간대별 편의점 매출 예측  <a href="https://github.com/minseungryu/Convenience_Store_Sales_Analysis" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
