@@ -12,6 +12,7 @@
 2. ⛴️ 항만 선박 대기시간 예측 및 운영 시스템 개선 제안  <a href="https://github.com/minseungryu/Ulsan_Ship_ETA_PJT" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
 3. ♻️ 서울시 스마트 수거함 입지 선정  <a href="https://github.com/minseungryu/PET_Recycling_Site_Selection" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
 <br>
+
 ![minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseungryu&show_icons=true&theme=graywhite)
 
 
