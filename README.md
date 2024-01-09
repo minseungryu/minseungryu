@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=FF4500"/></a>
+<a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=FF4500"/></a>
