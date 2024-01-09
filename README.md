@@ -1,8 +1,16 @@
-#### 🌱 매일 학습한 내용 & 프로젝트 진행사항을 티스토리에 정리합니다
+#### ▶︎ 매일 학습한 내용 & 프로젝트 진행사항을 티스토리에 정리합니다
 <a href="https://everyday-joyful.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=flat-square&logo=tistory&logoColor=FF4500"/></a>
+- Project History
+- Data Proprocessing > Pandas
+- ML > Scikit-learn
+- Data Visualization > Plotly, Seaborn, Matplotlib
+- Basic Statistics
+- Dashboard > Tableau, Streamlit
+
+
 <br>
 ---
-#### 🧑🏻‍💻 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
+#### ▶︎ 프로젝트 파일과 히스토리는 아래에서 확인할 수 있습니다
 1. 🏪 강남구 지역 상권 기반 시간대별 편의점 매출 예측  <a href="https://github.com/minseungryu/Convenience_Store_Sales_Analysis" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
 2. ⛴️ 항만 선박 대기시간 예측 및 운영 시스템 개선 제안  <a href="https://github.com/minseungryu/Ulsan_Ship_ETA_PJT" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
 3. ♻️ 서울시 스마트 수거함 입지 선정  <a href="https://github.com/minseungryu/PET_Recycling_Site_Selection" target="_blank"><img src="https://img.shields.io/badge/git repo-eeeeee?style=flat-square&logo=github&logoColor=a3a3a3"/></a>
